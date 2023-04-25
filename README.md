@@ -3,6 +3,8 @@ Creating a Highly Available 3-Tier Architecture for Web Applications in AWS
 
 A Five-Phase approach to launching a highly available and scalable cloud-based infrastructure for web application deployments
 
+![3tier_AWS](https://user-images.githubusercontent.com/67044030/234254855-4120b123-403a-414f-bd93-632346d30b50.jpeg)
+
 Businesses demand high availability, scalability, and security of the web applications. In this step-by-step tutorial, I am going to walk you through the structure and build of a standard 3-tiered cloud infrastructure
 
 
